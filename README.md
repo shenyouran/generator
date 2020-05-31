@@ -32,6 +32,7 @@ For users of Unix (including Linux and MacOS), first download:
 [Generator for Unix](https://shenyouran.github.io/Generator%20for%20Unix.zip)
 
 How do use in Unix:
+
 You can build and run the generators neither in the terminal or in an application that can run C/C++, for example Visual Studio Code. If you run them in an application, do as how you run proper C/C++ programs. If you would like to run them in the terminal, first prepare the terminal and go to the directory and follow these steps:
 ### Version 1.0
 ```bash
@@ -60,7 +61,9 @@ g++ -o generator2.0.exe generator2.0.cpp
 start generator2.0.exe
 ```
 F.A.Q:
+
 Q: Why does the cmd (terminal) respond error: no such file or repository?
+
 A: You might be entering the wrong path. To correct this, run:
 ```bash
 cd /
